@@ -1,0 +1,10 @@
+{
+  "settings": {
+    "title": "Boutique de madrid",
+    "currency": "DZD",
+    "showStock": true,
+    "ntfyTopic": "madrid_commandes"
+  },
+  "categories": [],
+  "products": []
+}
